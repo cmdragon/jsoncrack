@@ -35,6 +35,11 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <ColorSchemeScript />
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2874982874195135"
+            crossOrigin="anonymous"
+          />
         </Head>
         <body>
           <Main />
